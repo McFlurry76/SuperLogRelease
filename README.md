@@ -13,5 +13,4 @@ The SuperLog app automatically checks for updates from this repository.
 ## �� Notes
 
 - APK files are automatically uploaded via GitHub Actions
-- Source code is maintained in the private repository
 - All releases are signed with the same key for compatibility
